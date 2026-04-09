@@ -19,7 +19,7 @@ I'm a passionate learner on a journey through web development and beyond!
 - Virtual DOM makes apps blazing fast
 - Huge ecosystem with massive community support
 - Used by Facebook, Instagram, Netflix, and thousands of companies
-- Makes complex UIs manageable and maintainable
+- Makes complex UIs manageable and maintainable 
 
 ---
 
