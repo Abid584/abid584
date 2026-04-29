@@ -1,6 +1,6 @@
 # Hi there, I'm Abid Ali! 👋
 
-## 🚀 About Me
+## 🚀 About Me 
 I'm a passionate learner on a journey through web development, data science, and AI!
 
 ---
