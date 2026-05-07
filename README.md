@@ -12,7 +12,7 @@ I'm a passionate learner on a journey through web development, data science, and
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Python Ecosystem:** Django · Pandas · NumPy · Scikit-learn
-
+ 
 ---
 
 ### 🌐 Web Development 
